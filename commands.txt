@@ -12,3 +12,8 @@
 
 >git push [to sent changes from local repository to remote repository]
 
+>git config --list [to list configuration]
+
+>git config --global user.name "user name" [ to add user name]
+
+>git config --global user.email "user email" [to add user email]
