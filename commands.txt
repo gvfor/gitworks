@@ -17,3 +17,7 @@
 >git config --global user.name "user name" [ to add user name]
 
 >git config --global user.email "user email" [to add user email]
+
+>git remote add remote_name remote_path
+
+>git push remote_name branch_name
